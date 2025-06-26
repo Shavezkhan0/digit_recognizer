@@ -1,3 +1,8 @@
+# Required build tools
+setuptools>=65
+wheel
+build
+
 absl-py==2.3.0
 astunparse==1.6.3
 blinker==1.9.0
